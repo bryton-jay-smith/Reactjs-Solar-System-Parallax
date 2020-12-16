@@ -1,0 +1,23 @@
+#Scaling of the Solar System:
+
+## Distance from the Sun (Mesured in AU)
+- Sun: 0.0 
+- Mercury: 0.4
+- Venus: 0.7
+- Earth: 1
+- Mars: 1.5
+- Jupiter: 5.2
+- Satun: 9.6
+- Uranus: 19.2
+- Neptune: 30
+
+## Diamiter (Mesured in times greater than Earth's Diamiter)
+- Sun: 109
+- Mercury: 0.4
+- Venus: 0.9
+- Earth: 1
+- Mars: 0.5 
+- Jupiter: 11.2
+- Satun: 9.4
+- Uranus: 4
+- Neptune: 3.9
